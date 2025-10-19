@@ -1,7 +1,7 @@
 # Alterdune – GDD
 
 <p align="center">
-  <img src="./assets/logo.png" width="350" alt="Logo de Alterdune">
+  <img src="./assets/titulo.png" width="350" alt="Logo de Alterdune">
 </p>
 
 ## 1. Especificaciones básicas
@@ -10,12 +10,8 @@
 - **Público objetivo:** 12+  
 - **Cámara:** Vista aérea fija por sala con transiciones  
 - **Estilo visual:** Pixel art  
-- **Multijugador:** 2–4 jugadores  
-
-<p align="center">
-  <img src="./assets/Tiles.png" width="500" alt="Tileset del juego">
-</p>
-
+- **Multijugador:** 2–4 jugadores.
+- 
 ---
 
 ## 2. Concepto
@@ -45,6 +41,9 @@ Completar los tres laberintos del templo resolviendo los pequeños puzles que bl
 Inicio → Intro (se muestran los controles) → Personajes entran al templo → Laberinto 1 → Laberinto 2 → Laberinto 3 → Fin.
 
 <p align="center">
+  <img src="./assets/botonCreditos.png" width="200" alt="Botón de créditos">
+  <img src="./assets/play.png" width="200" alt="Botón de jugar">
+  <img src="./assets/titulo.png" width="400" alt="Título del juego">
   <img src="./assets/volverMenu.png" width="300" alt="Botón para volver al menú">
 </p>
 
@@ -66,9 +65,7 @@ Inicio → Intro (se muestran los controles) → Personajes entran al templo →
 - **Inspiración visual:** templos antiguos, estructuras geométricas y minimalismo.  
 
 <p align="center">
-  <img src="./assets/botonCreditos.png" width="200" alt="Botón de créditos">
-  <img src="./assets/play.png" width="200" alt="Botón de jugar">
-  <img src="./assets/titulo.png" width="400" alt="Título del juego">
+  <img src="./assets/Tiles.png" width="500" alt="Tileset del juego">
 </p>
 
 ---
