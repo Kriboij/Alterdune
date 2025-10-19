@@ -62,7 +62,7 @@ Inicio → Intro (se muestran los controles) → Personajes entran al templo →
 - **Paleta:** tonos piedra y arena con acentos dorados o rojos en elementos interactivos.  
 - **UI mínima:** contador de llaves, texto de nivel y botón “Reiniciar”.  
 - **Logo:** “Alterdune” con tipografía pixel y textura de arena.  
-- **Inspiración visual:** templos antiguos, estructuras geométricas y minimalismo.  
+- **Inspiración visual:** The Legend of Zelda, Undertale.
 
 <p align="center">
   <img src="./assets/Tiles.png" width="500" alt="Tileset del juego">
