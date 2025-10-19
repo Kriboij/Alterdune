@@ -43,7 +43,7 @@ Inicio → Intro (se muestran los controles) → Personajes entran al templo →
 <p align="center">
   <img src="./assets/botonCreditos.png" width="200" alt="Botón de créditos">
   <img src="./assets/play.png" width="200" alt="Botón de jugar">
-  <img src="./assets/titulo.png" width="400" alt="Título del juego">
+  <img src="./assets/controles.png" width="400" alt="Título del juego">
   <img src="./assets/volverMenu.png" width="300" alt="Botón para volver al menú">
 </p>
 
