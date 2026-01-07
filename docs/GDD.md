@@ -109,8 +109,6 @@ Sirve como toma de contacto con el movimiento, la estructura del nivel y las tra
 </p>
 
 Segundo laberinto, más complejo que el anterior.
-Los caminos son más ajustados y las trampas obligan a moverse con mayor precisión.
-
 ---
 
 ### Laberinto 3
@@ -120,14 +118,14 @@ Los caminos son más ajustados y las trampas obligan a moverse con mayor precisi
 </p>
 
 Último laberinto de la partida.
-Es el nivel más exigente y suele ser decisivo para determinar el ganador.
+Es el nivel más exigente.
 
 ---
 
 ### Pantalla final
 
 <p align="center">
-  <img src="./scs/labDesconexion.png" width="500" alt="Pantalla final">
+  <img src="./scs/pantallaFinal.png" width="500" alt="Pantalla final">
 </p>
 
 Pantalla de cierre de la partida.
