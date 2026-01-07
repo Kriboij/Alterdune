@@ -147,7 +147,7 @@ la partida se cancela automáticamente y el jugador restante vuelve al menú.
 ### Desconexión durante la partida
 
 <p align="center">
-  <img src="./scs/labDesconexion.png" width="500" alt="Desconexión en partida">
+  <img src="./scs/labDesconexión.png" width="500" alt="Desconexión en partida">
 </p>
 
 Cuando una desconexión ocurre durante un laberinto, la partida finaliza de inmediato.
