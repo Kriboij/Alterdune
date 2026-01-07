@@ -38,7 +38,7 @@ export default class Fin extends Phaser.Scene {
       wins: didWin ? 1 : 0,
       losses: didWin ? 0 : 1
     }).catch(() => { });
-    
+
     this.sound.stopAll();
 
     this.add.image(0, 0, 'menu')
