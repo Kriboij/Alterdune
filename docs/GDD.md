@@ -32,7 +32,7 @@ Llegar al final de los tres laberintos del sistema obteniendo la mayor puntuaci√
 ---
 
 ## 3. Controles
-- **Jugador 2:** W / A / S / D
+- **Jugador:** W / A / S / D
 
 ---
 
