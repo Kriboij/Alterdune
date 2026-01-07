@@ -28,12 +28,6 @@ export default class Fin extends Phaser.Scene {
 
     const didWin = myScore > otherScore;
 
-
-
-    this.sound.stopAll();
-
-    const totalScore = gameState.playerScore1 + gameState.playerScore2;
-
     updatePlayer(gameState.playerNickname, {
       wins: didWin ? 1 : 0,
       losses: didWin ? 0 : 1
@@ -48,8 +42,10 @@ export default class Fin extends Phaser.Scene {
 
     const ganador =
       gameState.playerScore1 > gameState.playerScore2
-        ? 'JUGADOR 1'
-        : 'JUGADOR 2';
+        ? gameState.players[0]
+        : gameState.players[1];
+
+
 
     const COLOR = 0x7cffb2;
     const centerX = this.cameras.main.centerX;

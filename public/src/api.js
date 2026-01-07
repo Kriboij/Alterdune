@@ -1,5 +1,3 @@
-const clientId = crypto.randomUUID();
-
 export async function pingServer() {
   const res = await fetch('/connected', {
     headers: {

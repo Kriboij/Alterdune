@@ -236,5 +236,6 @@ Este efecto refuerza visualmente la penalización y comunica claramente el event
 - **deathSound.wav:** se reproduce cuando un jugador toca los pinchos.
 - **spikeAscend.wav:** sonido asociado a la activación de las trampas.
 - **levelComplete.wav:** sonido al completar un laberinto.
-- **Música:** sonidos electrónicos suaves que refuerzan la ambientación digital.
+- **Música:** sonidos electrónicos suaves que refuerzan la ambientación digital. 
+  Fuente: [Pixabay – 8-bit Music (Medium)](https://pixabay.com/music/video-games-8-bit-music-on-medium-245247/)
 
